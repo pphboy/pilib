@@ -1,4 +1,4 @@
-module pglib
+module github.com/pphboy/pilib
 
 go 1.21.4
 
